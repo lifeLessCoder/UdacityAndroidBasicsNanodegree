@@ -4,7 +4,7 @@
 
 | Drawable                      | Author                                                            | Source |
 | -------------                 | -------------                                                     | ------------- |
-| [ic_email.xml](ic_email.xml)  | [Icon Pond](https://www.flaticon.com/authors/popcorns-arts)       | [FlatIcon](https://www.flaticon.com/)|
-| [ic_home.xml](ic_home.xml)    | [Vectors market](https://www.flaticon.com/authors/vectors-market) | [FlatIcon](https://www.flaticon.com/)|
-| [ic_phone.xml](ic_phone.xml)  | [Freepik](https://www.flaticon.com/authors/freepik)               | [FlatIcon](https://www.flaticon.com/)|
-| [ic_web.xml](ic_web.xml)      | [Freepik](https://www.flaticon.com/authors/freepik)               | [FlatIcon](https://www.flaticon.com/)|
+| [ic_email.xml](https://github.com/lifeLessCoder/UdacityAndroidBasicsNanodegree/blob/master/SingleScreenApp/app/src/main/res/drawable/ic_email.xml)  | [Icon Pond](https://www.flaticon.com/authors/popcorns-arts)       | [FlatIcon](https://www.flaticon.com/)|
+| [ic_home.xml](https://github.com/lifeLessCoder/UdacityAndroidBasicsNanodegree/blob/master/SingleScreenApp/app/src/main/res/drawable/ic_home.xml)    | [Vectors market](https://www.flaticon.com/authors/vectors-market) | [FlatIcon](https://www.flaticon.com/)|
+| [ic_phone.xml](https://github.com/lifeLessCoder/UdacityAndroidBasicsNanodegree/blob/master/SingleScreenApp/app/src/main/res/drawable/ic_phone.xml)  | [Freepik](https://www.flaticon.com/authors/freepik)               | [FlatIcon](https://www.flaticon.com/)|
+| [ic_web.xml](https://github.com/lifeLessCoder/UdacityAndroidBasicsNanodegree/blob/master/SingleScreenApp/app/src/main/res/drawable/ic_web.xml)      | [Freepik](https://www.flaticon.com/authors/freepik)               | [FlatIcon](https://www.flaticon.com/)|
