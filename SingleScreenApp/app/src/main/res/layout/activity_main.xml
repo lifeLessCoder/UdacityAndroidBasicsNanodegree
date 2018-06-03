@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/_16"
+        tools:context=".MainActivity">
+
+        <TextView
+            style="@style/style_business_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/stoned_monkey" />
+
+        <ImageView
+            style="@style/style_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/stoned_monkey" />
+
+        <TextView
+            style="@style/style_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/description" />
+
+        <TextView
+            style="@style/style_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/contact_info" />
+
+        <TextView
+            style="@style/style_contact_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="phone"
+            android:drawableStart="@drawable/ic_phone"
+            android:text="@string/phone_no" />
+
+        <TextView
+            style="@style/style_contact_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="email"
+            android:drawableStart="@drawable/ic_email"
+            android:text="@string/email" />
+
+        <TextView
+            style="@style/style_contact_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_16"
+            android:autoLink="web"
+            android:drawableStart="@drawable/ic_web"
+            android:text="@string/website" />
+
+        <TextView
+            style="@style/style_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/location" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/_8"
+            android:drawableStart="@drawable/ic_home"
+            android:text="@string/address" />
+
+    </LinearLayout>
+
+</ScrollView>

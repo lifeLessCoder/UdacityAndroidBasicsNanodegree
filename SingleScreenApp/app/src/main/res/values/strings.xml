@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="stoned_monkey"><u>Stoned Monkey</u></string>
+    <string name="description">
+        STONED MONKEY a dream come true for the budding entrepreneurs like us. Being passionate
+        about food , we decided to bring in this concept which is quiet new in this nation.
+        We would like to proudly announce we prepare exquisite stone beaten sundaes by using our
+        own premium quality ice-creams along with high quality add ons. Our team works day and
+        night to cater food in most healthy and hygienic way possible.
+    </string>
+    <string name="contact_info"><u>Contact info</u></string>
+    <string name="phone_no">+91\-9972710694</string>
+    <string name="email">info@stonedmonkey.co.in</string>
+    <string name="website">www.stonedmonkey.co.in</string>
+    <string name="location"><u>Location</u></string>
+    <string name="address">
+         #419, 9TH Main, 24TH Cross\nBanashankari 2ND Stage,\nBangalore 560070
+    </string>
+</resources>
