@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Curuss</string>
+    <string name="question_1">1. Which of the following car brands have the below logo?</string>
+    <string name="question_1_logo">Logo for 1st question</string>
+    <string name="cadillac">Cadillac</string>
+    <string name="corvette">Corvette</string>
+    <string name="citroen">Citroen</string>
+    <string name="chrysler">Chrysler</string>
+    <string name="question_2">2. Which car brand began as a result of Ferarri\'s insult?</string>
+    <string name="answer">Answer</string>
+    <string name="question_3">3. Which of the following car brands feature a horse in their logo?</string>
+    <string name="ferarri">Ferarri</string>
+    <string name="ford_mustang">Ford Mustang</string>
+    <string name="lamborghini">Lamborghini</string>
+    <string name="porsche">Porsche</string>
+    <string name="question_4">4. Select the fastest three cars from the following.</string>
+    <string name="bugatti_veyron_grand_sport">Bugatti Veyron Grand Sport</string>
+    <string name="bugatti_chiron">Bugatti Chiron</string>
+    <string name="hennessey_venom_f5">Hennessey Venom F5</string>
+    <string name="koenigsegg_agera_rs">Koenigsegg Agera RS</string>
+    <string name="submit">Submit</string>
+    <string name="score_text">You scored %1$d/4.</string>
+    <string name="key_question_1_option_ID">key_question_1_option_ID</string>
+</resources>
